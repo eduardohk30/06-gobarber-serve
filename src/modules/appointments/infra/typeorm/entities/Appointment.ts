@@ -8,7 +8,7 @@ import {
     JoinColumn,
 } from 'typeorm';
 
-import User from '@modules/users/infra/typeorm/entities/Users';
+import User from '@modules/users/infra/typeorm/entities/User';
 
 /**
  * Indica que a classe Appointment equivale à tabela
